@@ -4,17 +4,17 @@
 
 - 🌱 I’m currently developing **Problem solving (DSA & CP) and Frontend**
 
-- 🤝 I’m looking for help with **Competitive Programming and Open Source**
+- 🤝 I’m looking for help with **'Competitive Programming and Open Source'**
 
-- 💬 Ask me about **DSA and Frontend (CSS, JS, ResctJS)**
+- 💬 Ask me about **'DSA and Frontend (CSS, JS, ResctJS)'**
 
-- 📫 How to reach me **vasu2002devrani@gmail.com**
+- 📫 How to reach me **'vasu2002devrani@gmail.com'**
 
-- 🔥 Addicted to **HUSTLE and CODE** 
+- 🔥 Addicted to **'HUSTLE and CODE'** 
 
-- 🙂 Fond of **listening music and running**
+- 🙂 Fond of **'listening music and running'**
 
-- ⚡ Fun fact **I don't know why I'm enthusiastic all the time😁**
+- ⚡ Fun fact **'I don't know why I'm enthusiastic all the time😁'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
