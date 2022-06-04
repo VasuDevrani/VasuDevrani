@@ -13,7 +13,7 @@
 
  🔥 Addicted to **'HUSTLE and CODE'** 
 
- 🙂 Fond of **'listening music and running'**
+ 🙂 Fond of **'music and running'**
 
  ⚡ Fun fact **'I don't know why I'm enthusiastic all the time😁'**
 
