@@ -1,6 +1,6 @@
 <div align= "center">
 <h1 align="center">Hi 👋, I'm Vasu Devrani</h1>
-<img src="https://readme-typing-svg.herokuapp.com?background=FFFFFF00&lines=Hustle+%26+Code" alt="Hustle and Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?background=FFFFFF00&lines=Hustle+%26+Code+-+An+enthusistic+learner" alt="Hustle and Code"/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasudevrani" alt="vasudevrani" /></a> </p> -->
 
  🌱 I’m currently developing **Problem solving (DSA & CP) and Frontend**
