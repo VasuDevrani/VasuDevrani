@@ -1,20 +1,20 @@
+<div align= "center">
 <h1 align="center">Hi 👋, I'm Vasu Devrani</h1>
 <img src="https://readme-typing-svg.herokuapp.com?background=FFFFFF00&lines=Hustle+%26+Code" alt="Hustle and Code"/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasudevrani" alt="vasudevrani" /></a> </p> -->
 
-- 🌱 I’m currently developing **Problem solving (DSA & CP) and Frontend**
+ 🌱 I’m currently developing **Problem solving (DSA & CP) and Frontend**
+ 🤝 I’m looking for help with **'Competitive Programming and Open Source'**
 
-- 🤝 I’m looking for help with **'Competitive Programming and Open Source'**
+ 💬 Ask me about **'DSA and Frontend (CSS, JS, ResctJS)'**
 
-- 💬 Ask me about **'DSA and Frontend (CSS, JS, ResctJS)'**
+ 📫 How to reach me **'vasu2002devrani@gmail.com'**
 
-- 📫 How to reach me **'vasu2002devrani@gmail.com'**
+ 🔥 Addicted to **'HUSTLE and CODE'** 
 
-- 🔥 Addicted to **'HUSTLE and CODE'** 
+ 🙂 Fond of **'listening music and running'**
 
-- 🙂 Fond of **'listening music and running'**
-
-- ⚡ Fun fact **'I don't know why I'm enthusiastic all the time😁'**
+ ⚡ Fun fact **'I don't know why I'm enthusiastic all the time😁'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudevrani&show_icons=true&locale=en" alt="vasudevrani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasudevrani&" alt="vasudevrani" /></p>
+ </div>
