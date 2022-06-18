@@ -5,7 +5,7 @@
 
  🌱 I’m currently developing **Problem solving (DSA & CP) and Frontend**
  
- 🤝 I’m looking for help with **'Competitive Programming and Open Source'**
+ 🤝 I’m looking for help with **'Competitive Programming and Open Source...'**
 
  💬 Ask me about **'DSA and Frontend (CSS, JS, ReactJS)'**
 
