@@ -7,7 +7,7 @@
  
  🤝 I’m looking for help with **'Competitive Programming and Open Source...'**
 
- 💬 Ask me about **'DSA and Frontend (CSS, JS, ReactJS)'**
+ 💬 Ask me about **'DSA and MERN and CSS'**
 
  📫 How to reach me **'vasu2002devrani@gmail.com'**
 
