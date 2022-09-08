@@ -1,6 +1,6 @@
-<div align= "center">
-<h1 align="center">Hi 👋, I'm Vasu Devrani</h1>
-<img src="https://readme-typing-svg.herokuapp.com?background=FFFFFF00&lines=Hustle+%26+Code+-+An+enthusistic+learner" alt="Hustle and Code"/>
+<div>
+<h1 >Hi 👋, I'm Vasu Devrani</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Developer+Doing+DevOps" alt="Typing SVG" />
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasudevrani" alt="vasudevrani" /></a> </p> -->
 
  🌱 I’m currently developing **typescript & backend**
