@@ -5,7 +5,7 @@
 
  🌱 I’m currently developing **typescript & backend**
  
- 🤝 I’m looking for help with **'Competitive Programming and Open Source...'**
+ 🤝 I’m looking for help with **'DevOps and Open Source...'**
 
  💬 Ask me about **'DSA and MERN and CSS'**
 
