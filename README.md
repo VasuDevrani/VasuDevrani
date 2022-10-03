@@ -33,7 +33,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasudevrani&show_icons=true&locale=en&layout=compact" alt="vasudevrani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudevrani&show_icons=true&locale=en" alt="vasudevrani" /></p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VasuDevrani&bg_color=d1ffe3&color=9e4c98&line=4c919e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasudevrani&" alt="vasudevrani" /></p>
  </div>
