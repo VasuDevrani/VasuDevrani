@@ -1,41 +1,126 @@
+<!-- <img align="center" src="https://i.imgur.com/4ASafy0.png"> -->
+
+<h1 align="center"> Hey, I am Vasu Devrani!</h1>
+<!-- h -->
+<span style="color:#39FF14"><h2 align="center" color="#39FF14">Full Stack Web Developer | Open Source Enthusiast | Sport Programmer</h2></span>
+
 <div>
-<h1 >Hi 👋, I'm Vasu Devrani</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Developer+Doing+DevOps" alt="Typing SVG" />
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasudevrani" alt="vasudevrani" /></a> </p> -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101383635/198191581-35c5935a-ac37-4ee0-af05-1ba14e08f026.gif">
+</div>
+<h2>
 
- 🌱 I’m currently learning **DevOps & Cloud**
- 
- 🤝 I’m looking for help with **'DevOps and Open Source...'**
+🙋🏻‍♂️ About Me
 
- 💬 Lets have a conversation on our common techyy interest 🤓
-
- 📫 How to reach me **'vasu2002devrani@gmail.com'**
-
- 🔥 Addicted to **'HUSTLE and CODE'** 
-
- 🙂 Fond of **'music, running and multitasking'**
-
- ⚡ Fun fact **'I don't know why I'm enthusiastic all the time😁'**
-
-<h3 >Connect with me:</h3>
+</h2>
+<span style="font-size: 18px">
 <p >
-<a href="https://linkedin.com/in/vasu-devrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasu-devrani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vasu4arodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasu4arodev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vasudevrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasudevrani" height="30" width="40" /></a>
-<a href="https://twitter.com/si_vasu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png?20220821125553" alt="vasudevrani" height="30" width="40" /></a>
+
+- 👨‍🎓 B.Tech Sophomore major in **Information Technology**
+
+- 👨‍💻 Currently working on **Cloud, Advance web Projects**
+
+- 🔍 Exploring some open source projects to collaborate
+
+- 🤝🏼 Open for Collaborations
+ 
+-  📫 How to reach me **vasu2002devrani@gmail.com**
+ 
+- 🙂 Fond of **music, running and multitasking**
+
+- ✨ Fun fact **I don't know why I'm enthusiastic all the time😁**
+
+</p>
+</span>
+</br>
+
+<h3>
+
+🌍 Language I use:
+
+</h3>
+
+<p >
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![GoLang](https://img.shields.io/badge/Go-GoLang-blue?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+ 
+<h3>
+
+🦾 FrameWorks & Libraries I use:
+
+</h3>
+ 
+<p>
+ 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 </p>
 
-<h3 >Languages and Tools:</h3>
-<p > <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a src="https://nodejs.org/en/"><img src="https://w7.pngwing.com/pngs/777/698/png-transparent-node-js-javascript-software-developer-npm-github-angle-text-logo-thumbnail.png" alt="miui" width="40" height="40"/> </a><a src="https://www.mongodb.com/"><img src="https://w7.pngwing.com/pngs/216/509/png-transparent-mongodb-node-js-npm-open-source-model-angularjs-leaf-leaf-logo-grass-thumbnail.png" alt="miui" width="40" height="40"/> </a> <a src="https://redux.js.org/"><img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="miui" width="40" height="40"/> </a> <a src="https://tailwindcss.com/"><img src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" alt="miui" width="40" height="40"/> </a><a src="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="miui" width="40" height="40"/> </a><a src="https://nextjs.org/"><img src="https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F2LTO3hWQ4NdnedxuYZfwxa%2F74c017aa157d7986479f1e940448ef51%2FLogotype.png&w=3840&q=75" alt="miui"  height="40"/> </a> <a src="https://go.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" alt="goLang"  height="40"/> </a> <a src="https://www.mysql.com/"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="mySQL"  height="40"/> </a> <a src="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux"  height="40"/> </a>
+<h3>
 
-<p></p>
-<img width="402" alt="2022-09-08" src="https://user-images.githubusercontent.com/101383635/189067965-1c2dd2b2-9fe2-460f-b3b6-aa952a1b7b4e.png">
+📊 Databases I use:
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasudevrani&show_icons=true&locale=en&layout=compact" alt="vasudevrani" /></p>
+</h3>
+<p>
+ 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VasuDevrani&bg_color=d1ffe3&color=9e4c98&line=4c919e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudevrani&show_icons=true&locale=en" alt="vasudevrani" /></p>
+<h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasudevrani&" alt="vasudevrani" /></p>
- </div>
+🛠️ Tools I use:
+
+</h3>
+
+![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=Postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+
+</p>
+</br>
+<h2>💬 Want To Contact Me? </h2>
+
+<p >
+
+[![Linkedin Badge](https://img.shields.io/badge/-VasuDevrani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vasu-devrani)](https://linkedin.com/in/vasu-devrani)
+[![Instagram Badge](https://img.shields.io/badge/-vasu_devrani-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vasu_devrani/)](https://www.instagram.com/vasu_devrani/)
+[![Twitter Badge](https://img.shields.io/badge/-si_vasu-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/si_vasu)](https://twitter.com/si_vasu)
+[![Gmail Badge](https://img.shields.io/badge/Vasu_Devrani@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:vasu2002devrani@gmail.com)](mailto:vasu2002devrani@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://www.leetcode.com/vasudevrani)](https://www.leetcode.com/vasudevrani)
+
+ </p>
+</br>
+<h2>📈 Github Stats</h2>
+
+<p >
+ 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VasuDevrani&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<a href="https://github.com/2802AdityA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VasuDevrani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuDevrani&theme=algolia&hide=c%2B%2B&layout=compact"/>
+</a>
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=VasuDevrani&theme=cobalt)](https://git.io/streak-stats)
+
+</p>
