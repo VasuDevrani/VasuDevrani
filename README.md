@@ -17,7 +17,7 @@
 
 - 👨‍🎓 B.Tech Sophomore major in **Information Technology**
 
-- 👨‍💻 Currently working on **Cloud, Advance web Projects**
+- 👨‍💻 Currently working on **Cloud, Backend, and Problem Solving**
 
 - 🔍 Exploring some open source projects to collaborate
 
