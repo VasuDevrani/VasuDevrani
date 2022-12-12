@@ -25,7 +25,7 @@
  
 -  📫 How to reach me **vasu2002devrani@gmail.com**
  
-- 🙂 Fond of **music, running and multitasking**
+- 🙂 My things **anime, music, running and multitasking**
 
 - ✨ Fun fact **I don't know why I'm enthusiastic all the time😁**
 
