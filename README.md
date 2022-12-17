@@ -134,14 +134,13 @@
 
 <p >
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VasuDevrani&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VasuDevrani&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)
 
 <a href="https://github.com/2802AdityA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VasuDevrani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VasuDevrani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuDevrani&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=VasuDevrani&theme=cobalt)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=VasuDevrani&theme=cobalt)](https://git.io/streak-stats) -->
 
 </p>
