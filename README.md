@@ -116,6 +116,7 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 </p>
+
 </br>
 
 <h2>💬 Want To Contact Me? </h2>
@@ -127,6 +128,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-si_vasu-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/si_vasu)](https://twitter.com/si_vasu)
 [![Gmail Badge](https://img.shields.io/badge/Vasu_Devrani@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:vasu2002devrani@gmail.com)](mailto:vasu2002devrani@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://www.leetcode.com/vasudevrani)](https://www.leetcode.com/vasudevrani)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/316k7fh7hekokcfu3p46maycsuda)
 
  </p>
 </br>
