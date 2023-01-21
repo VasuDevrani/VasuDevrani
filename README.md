@@ -129,6 +129,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Vasu_Devrani@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:vasu2002devrani@gmail.com)](mailto:vasu2002devrani@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://www.leetcode.com/vasudevrani)](https://www.leetcode.com/vasudevrani)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/316k7fh7hekokcfu3p46maycsuda)
+<img src="https://img.shields.io/badge/%E2%9C%A8-MyAnimeList-blue" height="24px">
 
  </p>
 </br>
