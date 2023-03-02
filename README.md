@@ -5,7 +5,7 @@
 <span style="color:#39FF14"><h2 align="center" color="#39FF14">Full Stack Web Developer | Open Source Enthusiast | Sport Programmer</h2></span>
 
 <div>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101383635/198191581-35c5935a-ac37-4ee0-af05-1ba14e08f026.gif">
+<img align="right" alt="coding" width="370" src="https://user-images.githubusercontent.com/101383635/198191581-35c5935a-ac37-4ee0-af05-1ba14e08f026.gif">
 </div>
 <h2>
 
