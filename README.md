@@ -1,19 +1,16 @@
 <!-- <img align="center" src="https://i.imgur.com/4ASafy0.png"> -->
-
+<div align="center">
 <h1> Hello! Vasu here.</h1>
 <!-- h -->
 <span style="color:#39FF14"><h2 color="#39FF14">Typescript / Go FullStack - Sport Programmer</h2></span>
 
-<div>
-<img align="right" alt="coding" width="270" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
-</div>
 </br>
 <h3>
 
 👾 About Me
 
 </h3>
-<span style="font-size: 18px">
+<span style="font-size: 18px" align="center">
 <p >
 
 Currently a **student**, B.Tech. Sophomore at MAIT, Delhi.
@@ -27,9 +24,9 @@ loves to code (obviously), watch anime (a lot sometimes), **being creative**.
 </span>
 </br>
 
-<h3>
+<h3 color="blue">
 
-> Languages:
+Languages:
 
 </h3>
 
@@ -50,7 +47,7 @@ loves to code (obviously), watch anime (a lot sometimes), **being creative**.
  
 <h3>
 
-> FrameWorks & Libraries:
+FrameWorks & Libraries:
 
 </h3>
  
@@ -70,7 +67,7 @@ loves to code (obviously), watch anime (a lot sometimes), **being creative**.
 
 <h3>
 
-> Databases:
+Databases:
 
 </h3>
 <p>
@@ -82,7 +79,7 @@ loves to code (obviously), watch anime (a lot sometimes), **being creative**.
 
 <h3>
 
-> Tools:
+Tools:
 
 </h3>
 
@@ -97,9 +94,9 @@ loves to code (obviously), watch anime (a lot sometimes), **being creative**.
 
 </p>
 
-<h4>
+<h3>
 
-> Testing Tools:
+Testing Tools:
 
 </h3>
 <p>
@@ -113,7 +110,7 @@ loves to code (obviously), watch anime (a lot sometimes), **being creative**.
 
 </br>
 
-<h2>💬 Want To Contact Me? </h2>
+<h3>Want To Contact Me? </h3>
 
 <p >
 
@@ -133,11 +130,16 @@ loves to code (obviously), watch anime (a lot sometimes), **being creative**.
  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VasuDevrani&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true) -->
 
-<a href="https://github.com/2802AdityA">
+<!-- <a href="https://github.com/2802AdityA"> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VasuDevrani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuDevrani&theme=algolia&hide=c%2B%2B&layout=compact"/>
-</a>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuDevrani&theme=algolia&hide=c%2B%2B&layout=compact"/>
+</a> -->
  
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=VasuDevrani&theme=cobalt)](https://git.io/streak-stats) -->
 
 </p>
+
+<div>
+<img align="center" alt="coding" width="270" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
+</div>
+</div>
