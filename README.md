@@ -1,41 +1,35 @@
 <!-- <img align="center" src="https://i.imgur.com/4ASafy0.png"> -->
 
-<h1 align="center"> Hey, I am Vasu Devrani!</h1>
+<h1> Hello! Vasu here.</h1>
 <!-- h -->
-<span style="color:#39FF14"><h2 align="center" color="#39FF14">Full Stack Web Developer | Open Source Enthusiast | Sport Programmer</h2></span>
+<span style="color:#39FF14"><h2 color="#39FF14">Typescript / Go FullStack - Sport Programmer</h2></span>
 
 <div>
-<img align="right" alt="coding" width="370" src="https://user-images.githubusercontent.com/101383635/198191581-35c5935a-ac37-4ee0-af05-1ba14e08f026.gif">
+<img align="right" alt="coding" width="320" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
 </div>
-<h2>
+</br>
+<h3>
 
-🙋🏻‍♂️ About Me
+👾 About Me
 
-</h2>
+</h3>
 <span style="font-size: 18px">
 <p >
 
-- 👨‍🎓 B.Tech Sophomore major in **Information Technology**
-
-- 👨‍💻 Currently working on **Cloud, Backend, and Problem Solving**
-
-- 🔍 Exploring some open source projects to collaborate
-
-- 🤝🏼 Open for Collaborations
- 
--  📫 How to reach me **vasu2002devrani@gmail.com**
- 
-- 🙂 My things **anime, music, running and multitasking**
-
-- ✨ Fun fact **I don't know why I'm enthusiastic all the time😁**
-
+Currently a **student**, B.Tech. Sophomore at MAIT, Delhi.
+</br></br>
+developing frontend-backend stuff using **Typescript & GoLang**. </br>
+advancing in the field of **DevOps-Cloud**. </br></br>
+**open for collaborations**, holding worthy internship and project experiences. </br>
+</br>
+loves to code (obviously), watch anime (a lot sometimes), **being creative**. 
 </p>
 </span>
 </br>
 
 <h3>
 
-🌍 Language I use:
+> Languages:
 
 </h3>
 
@@ -56,7 +50,7 @@
  
 <h3>
 
-🦾 FrameWorks & Libraries I use:
+> FrameWorks & Libraries:
 
 </h3>
  
@@ -76,7 +70,7 @@
 
 <h3>
 
-📊 Databases I use:
+> Databases:
 
 </h3>
 <p>
@@ -88,7 +82,7 @@
 
 <h3>
 
-🛠️ Tools I use:
+> Tools:
 
 </h3>
 
@@ -103,9 +97,9 @@
 
 </p>
 
-<h3>
+<h4>
 
-📊 Testing Tools used:
+> Testing Tools:
 
 </h3>
 <p>
@@ -132,12 +126,12 @@
 <a href="https://myanimelist.net/animelist/VasuDevrani"><img src="https://img.shields.io/badge/%E2%9C%A8-MyAnimeList-blue" height="24px"/></a>
 
  </p>
-</br>
+<!-- </br>
 <h2>📈 Github Stats</h2>
 
 <p >
  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VasuDevrani&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VasuDevrani&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true) -->
 
 <a href="https://github.com/2802AdityA">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VasuDevrani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
