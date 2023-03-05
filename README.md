@@ -5,7 +5,7 @@
 <span style="color:#39FF14"><h2 color="#39FF14">Typescript / Go FullStack - Sport Programmer</h2></span>
 
 <div>
-<img align="right" alt="coding" width="320" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
+<img align="right" alt="coding" width="270" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
 </div>
 </br>
 <h3>
