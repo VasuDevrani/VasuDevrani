@@ -90,6 +90,7 @@ Tools:
 ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=Postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 </p>
@@ -120,7 +121,7 @@ Testing Tools:
 [![Gmail Badge](https://img.shields.io/badge/Vasu_Devrani@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:vasu2002devrani@gmail.com)](mailto:vasu2002devrani@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://www.leetcode.com/vasudevrani)](https://www.leetcode.com/vasudevrani)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/316k7fh7hekokcfu3p46maycsuda)
-<a href="https://myanimelist.net/animelist/VasuDevrani"><img src="https://img.shields.io/badge/%E2%9C%A8-MyAnimeList-blue" height="24px"/></a>
+<!-- <a href="https://myanimelist.net/animelist/VasuDevrani"><img src="https://img.shields.io/badge/%E2%9C%A8-MyAnimeList-blue" height="24px"/></a> -->
 
  </p>
 <!-- </br>
