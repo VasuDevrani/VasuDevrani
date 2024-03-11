@@ -11,7 +11,7 @@
 #################################################
 
 "Open for collaboration, holds worthy internships and project experiences"
-"Loves to code (obv), watching anime (a lot sometimes), being creative"
+"Loves to code (obv)"
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,go,javascript,cpp,html,sass,mysql,graphql,nodejs,nextjs,express,firebase,tailwind,materialui,styledcomponents,mongodb,mysql,dynamodb,prisma,linux,git,nginx,kubernetes,docker,jenkins,ansible,aws,redux,rabbitmq,redis,react,jest&perline=8)](https://skillicons.dev)
