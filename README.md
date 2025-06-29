@@ -4,7 +4,7 @@
 ```sh
 #!/bin/bash
 
-"Currently student, B.Tech. pre-final year"
+"Software Engieer"
 "devloping scalable frontend-backend using Typescript and GoLang."
 "Automating workflows, managing cloud clusters"
 
